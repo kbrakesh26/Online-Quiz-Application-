@@ -138,11 +138,5 @@ Feel free to open issues or pull requests!
 
 ---
 
-## 📄 License
-
-MIT
-
----
-
-## 💡 Credits  
+## Credits  
 Developed by Rakesh Kumar
